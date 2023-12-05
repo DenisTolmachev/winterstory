@@ -1,4 +1,4 @@
-import { ModuleBuilder } from "@/builder/builder";
+import { ModuleBuilder } from "@/app/lib/builder/builder";
 
 export const yusya1Module = ModuleBuilder.create("Сніг іде зі Снігокраю", `y1`)
   .addEntryScene({
